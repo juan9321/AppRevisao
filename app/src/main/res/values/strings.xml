@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppAvaliacao</string>
+    <string name="diceRoller">Digite os valores:</string>
+    <string name="btnRoll">Testar</string>
+</resources>
